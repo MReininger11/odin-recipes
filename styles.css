@@ -1,0 +1,31 @@
+h1 {
+    color: darkgrey;
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 7px;
+    font-weight: 1000;
+
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
+* {
+    background-color: black;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: aqua;
+}
+
+img {
+    width: 50%;
+    height: auto;
+}
